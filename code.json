@@ -1,0 +1,4 @@
+{
+    "S3Bucket": "federation-code-bucket",
+    "S3Key": "athena-postgres/athena-postgresql-2022.47.1.jar"
+}
